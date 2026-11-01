@@ -1,0 +1,170 @@
+{
+  "name": "felinar",
+  "version": "0.3.0",
+  "buildId": "976caba51866",
+  "targets": [
+    "es2020",
+    "safari15.4",
+    "chrome110",
+    "firefox115"
+  ],
+  "esbuild": "0.28.2",
+  "minified": true,
+  "vendored": {
+    "webtorrent.min.js": {
+      "package": "webtorrent",
+      "version": "3.0.21",
+      "sha256": "db4dca98cd135c732eeffdede3cf5f8febd0585a0eba4dc4d1effa1b901f4c3d",
+      "patched": true,
+      "patchedSha256": "97b5771c367304f444d0baaa4e4be63b662726f5d7d9f3fe3b29fe30433e0bc0",
+      "patches": [
+        "webconn-request-headers",
+        "xs-metadata-user-agent",
+        "remote-torrent-user-agent",
+        "opfs-chunks-cleanup",
+        "fsa-createwritable-polyfill"
+      ]
+    }
+  },
+  "packages": {},
+  "sri": {
+    "/_mw/boot.js": "sha384-CkY7jMTQC+s7gYJQxMkFyPL08V1//5xMDnLrS6nJd87IUSDum5rNvI53F6vcac7X",
+    "/_mw/loader.js": "sha384-b/kbVSBoAqAONSuTU0sxXNSie53Q/NAXwYDoccZ2tO7R6WNutMLjc3us6W6WVPSN"
+  },
+  "precache": [
+    "/index.html",
+    "/_mw/boot.js",
+    "/_mw/door-frame.js",
+    "/_mw/door.webmanifest",
+    "/_mw/icons/icon.svg",
+    "/_mw/loader.js",
+    "/_mw/manifest.webmanifest",
+    "/_mw/mw.js",
+    "/_mw/open.html",
+    "/_mw/pow-worker.js",
+    "/_mw/sdk.js",
+    "/_mw/sw-core.js",
+    "/_mw/ui.css"
+  ],
+  "integrity": {
+    "/_mw/boot.js": "sha384-CkY7jMTQC+s7gYJQxMkFyPL08V1//5xMDnLrS6nJd87IUSDum5rNvI53F6vcac7X",
+    "/_mw/door-frame.js": "sha384-/wMTeolU6GqnDKkw9SFEzcKV+a1zxLzam2TrLOtXu4q0/KnUBnQ6dWue57B0EjPv",
+    "/_mw/loader.js": "sha384-b/kbVSBoAqAONSuTU0sxXNSie53Q/NAXwYDoccZ2tO7R6WNutMLjc3us6W6WVPSN",
+    "/_mw/mw.js": "sha384-1DeapBXM4BErOjC2WiOYRgNIHbnaDH3JsVB+zwFEegY9xI1As1/eyEsIRWNncA3m",
+    "/_mw/pow-worker.js": "sha384-DkjkV+FEAy75SwG1mZlBBnnXu7/RwH1NlhzJflJsOf8fXpaCpY4LCZhIZ4DkuhR0",
+    "/_mw/sdk.js": "sha384-tHy1VqvDfCzZZBxKXtmH1N2hNXu7BpttsW8h5GBQ2w8d82Vk827LeS9Q2VzQifoq",
+    "/_mw/sw-core.js": "sha384-cmrcIWSletWnClzKJBpZp6EIFWQhurhvUzKtxqjGNIYqlBFB8RJFYqSM8R029FxJ",
+    "/_mw/ui.css": "sha384-BlwmTxKy1GUdTo92vPFdAiY9ukjQiimsrThzhUAFo40P21yey9ixuIJ1W0Aa2S1C",
+    "/_mw/webtorrent.min.js": "sha384-Q2ahL7zgiL1RJhmhsSnhsMzk5hWUDdOcLlxVOavtpteMDqKWJy5ILm7XXaxMhOnr",
+    "/_mw/signin.js": "sha384-rKbXzZEPEUx7W7V+BV/puIFgcYCwR5gO+Ltn7Bt/pEcKzC504O4EM1QuI0iCQyoG",
+    "/_mw/chat-panel.js": "sha384-/w7GsnC72ghl8GDnerj8W9nBv+9+AoAvsaGkofpuj+Y6N3ubcMEoGvfgVy6nLzBe"
+  },
+  "skipped": [],
+  "files": [
+    {
+      "path": "404.html",
+      "bytes": 2988,
+      "sha256": "5a9102c90329662cb28fa5f290c93e18a31ab8ef5fbc11b8010707749fff1dae"
+    },
+    {
+      "path": "_mw/boot.js",
+      "bytes": 14525,
+      "sha256": "a29bd4d87ea2b2b8af5cdce6bb637b4aabab604e0aa9206d0087c2fe81cde6ed"
+    },
+    {
+      "path": "_mw/chat-panel.js",
+      "bytes": 79876,
+      "sha256": "f63cdc3528df94e2f26fef98a33cda3e9c232633567b6fde9df0f372e9fb8957"
+    },
+    {
+      "path": "_mw/door-frame.js",
+      "bytes": 12590,
+      "sha256": "60444fb379d4a6532da210436ea50df14f62750516a739195e6a5e5f9bf4d1a0"
+    },
+    {
+      "path": "_mw/door.json",
+      "bytes": 4652,
+      "sha256": "7b7a8493d5b892a055c258abfa49a1ffff8b759c207b844a1f301ac65cb927b9"
+    },
+    {
+      "path": "_mw/door.webmanifest",
+      "bytes": 785,
+      "sha256": "0716dbcd5ca7d1ba447aa3b6d0f22b00fc158cc729d8b686803baca328ed3c10"
+    },
+    {
+      "path": "_mw/icons/icon.svg",
+      "bytes": 360,
+      "sha256": "fcfbaf24b7a74a477edca884473c40c7c03b2c73b44b1369969f257e7d5615f0"
+    },
+    {
+      "path": "_mw/loader.js",
+      "bytes": 1204304,
+      "sha256": "154231af36ce7b0e88bf30dce3f08497f036bde61fa274aa30a6782a85ddc940"
+    },
+    {
+      "path": "_mw/manifest.webmanifest",
+      "bytes": 470,
+      "sha256": "5aa0a4d0490a97fbe899fe747a2d29842791823e8b5bb431ccac90a2ae1a7ce4"
+    },
+    {
+      "path": "_mw/mw.js",
+      "bytes": 916713,
+      "sha256": "dc67429aa041723bc2d274a2a5cd73df0d79b9a7fa499183429f8605cb35b68d"
+    },
+    {
+      "path": "_mw/open.html",
+      "bytes": 2984,
+      "sha256": "468c93c1c91653cccbbf557d1ace72ea0987bfcac989ac8623eed903f4960e23"
+    },
+    {
+      "path": "_mw/pow-worker.js",
+      "bytes": 20536,
+      "sha256": "8be3a59cbcea43a607ed4eb220d314f93f3a2b9d24b4c7c4f00af827e8cc863a"
+    },
+    {
+      "path": "_mw/sdk-static.js",
+      "bytes": 2299,
+      "sha256": "5a2c79995f87f6db9d252ea2b3ff2fe167758a2c189fa47cbe1d74d39409ff85"
+    },
+    {
+      "path": "_mw/sdk.js",
+      "bytes": 19882,
+      "sha256": "828565207243fac270fa7101537172cd22b3a6bad8b49667b5f06f739151187d"
+    },
+    {
+      "path": "_mw/signin.js",
+      "bytes": 102497,
+      "sha256": "b9b622b3f52f47410ebbe47d9c8fb86e5f13c37cb7caec10d84428ec84751242"
+    },
+    {
+      "path": "_mw/sw-core.js",
+      "bytes": 89099,
+      "sha256": "95a49804cac6b7db5c8da28f1eb5f2951c9f6555d239920bbed3ed5a908f8bb2"
+    },
+    {
+      "path": "_mw/ui.css",
+      "bytes": 11945,
+      "sha256": "f5e0ffd74ed13363f484c918390f8967c7fdde387797c3e4225e2634402ae66f"
+    },
+    {
+      "path": "_mw/webtorrent.min.js",
+      "bytes": 222343,
+      "sha256": "97b5771c367304f444d0baaa4e4be63b662726f5d7d9f3fe3b29fe30433e0bc0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2988,
+      "sha256": "5a9102c90329662cb28fa5f290c93e18a31ab8ef5fbc11b8010707749fff1dae"
+    },
+    {
+      "path": "mw-sw-kill.js",
+      "bytes": 627,
+      "sha256": "0857ab9a7c1d94efc47fe4d6e04d0521b436fe489120d96545e72dc7959207d4"
+    },
+    {
+      "path": "mw-sw.js",
+      "bytes": 90748,
+      "sha256": "c1e25266a4abd5f230872d85f3c051006ae8228f28d33e14ebaab54ab5648d91"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "v": 1,
+  "name": "peer-guestbook",
+  "files": [
+    {
+      "path": ".mw/site.json",
+      "length": 165,
+      "sha256": "9f9d66bca71c3926fe585c6afdf1e0902a85c7c4bca966c8eb4b201df0549054"
+    },
+    {
+      "path": "404.html",
+      "length": 830,
+      "sha256": "f7c4df780d8a1f3de9f2b5daeb10525392785b0415e410830b5c0725f0628fff"
+    },
+    {
+      "path": "about.html",
+      "length": 7298,
+      "sha256": "81a32c1c1b8a20232504edb235d453e9b41efc5f973ecd59ee8e299ad94406ed"
+    },
+    {
+      "path": "css/app.css",
+      "length": 8894,
+      "sha256": "958c7ab90e3ab24a4abeeba1f736b908961d871e6d15a43dc5f94842fbc1b863"
+    },
+    {
+      "path": "data/about.json",
+      "length": 1594,
+      "sha256": "a9f58513765f9642f18d9c5160d954a0fe641a7badb4e5a11d00794458bd0365"
+    },
+    {
+      "path": "img/peer.png",
+      "length": 776,
+      "sha256": "dfe112d4bdc355996e07c986bf6b419e9b1c77629bbf00a63833ce5136c5d60c"
+    },
+    {
+      "path": "index.html",
+      "length": 7138,
+      "sha256": "eab1c79a5b647d18360611cc0c11e4a23faf267d480d61ecb7d07fa95061817e"
+    },
+    {
+      "path": "js/app.js",
+      "length": 25431,
+      "sha256": "9eb0262a5ce6cd368bfb433a0ca6f042b1fce426f8668cb9cb3bfd14806f3816"
+    },
+    {
+      "path": "js/auth.js",
+      "length": 1988,
+      "sha256": "cbcdc9864abf5275ada5824552f4ef3d91ccdce150501440b54a5e180ad7d0a8"
+    },
+    {
+      "path": "js/common.js",
+      "length": 8012,
+      "sha256": "a9689c2b532eab885c3bfada1178095c26ddd7f02b031ac1706296e3afb4fdb9"
+    },
+    {
+      "path": "js/members.js",
+      "length": 9365,
+      "sha256": "0da99e9107717f0cf2c23160f7e3f7e074adca7314c317fda0c38740573638d2"
+    },
+    {
+      "path": "js/profile.js",
+      "length": 5908,
+      "sha256": "f90ab3b450e60c2af1d09ccc98d48d5ba070de6a618fe2d6b6362d6d6948dd8f"
+    },
+    {
+      "path": "media/clip.mp4",
+      "length": 18833,
+      "sha256": "81045124d22c374964a3746d88e7c15231391378e1587ccbda29ffb0f3245b92"
+    },
+    {
+      "path": "members.html",
+      "length": 5756,
+      "sha256": "729cfe18dede8909fbf67e8505324b9c3589f81b7f34f05b6e6e94d5505c128b"
+    },
+    {
+      "path": "profile.html",
+      "length": 7230,
+      "sha256": "cca97cd9b271571b5717eafe6d1d97966670da622a118283cb4c3ead18655262"
+    }
+  ]
+}

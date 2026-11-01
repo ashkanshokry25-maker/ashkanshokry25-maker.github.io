@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "index": "index.html",
+  "notFound": "404.html",
+  "spa": false,
+  "cleanUrls": false,
+  "trailingSlash": "auto",
+  "redirects": [],
+  "headers": []
+}

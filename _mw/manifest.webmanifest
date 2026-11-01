@@ -1,0 +1,19 @@
+{
+  "name": "felinar",
+  "short_name": "felinar",
+  "description": "felinar: websites loaded by magnet link, verified in your browser, from a plain static host. No backend. The light web.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#f6f7f9",
+  "icons": [
+    {
+      "src": "/_mw/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
