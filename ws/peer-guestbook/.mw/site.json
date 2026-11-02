@@ -6,5 +6,8 @@
   "cleanUrls": false,
   "trailingSlash": "auto",
   "redirects": [],
-  "headers": []
+  "headers": [],
+  "stun": [
+    "stun:stun.cloudflare.com:3478"
+  ]
 }
