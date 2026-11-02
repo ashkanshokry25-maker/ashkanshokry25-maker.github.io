@@ -1,7 +1,7 @@
 {
   "name": "felinar",
   "version": "0.3.0",
-  "buildId": "d47a23a34bf3",
+  "buildId": "f9b26a88bc9c",
   "targets": [
     "es2020",
     "safari15.4",
@@ -29,7 +29,7 @@
   "packages": {},
   "sri": {
     "/_mw/boot.js": "sha384-CkY7jMTQC+s7gYJQxMkFyPL08V1//5xMDnLrS6nJd87IUSDum5rNvI53F6vcac7X",
-    "/_mw/loader.js": "sha384-BiH6b0jldW4bImOR0FuZ9gHpm2aJbPQbTCqHrFPUB2xFM0UzvSA4/7g2Io1C2mvI"
+    "/_mw/loader.js": "sha384-nW3cH7uJtSi0r8Aq4SiEj51BOmlJ6E6xUxrj+rtj6ttm5oTaANgZL7UJkLqeWzI1"
   },
   "precache": [
     "/index.html",
@@ -49,11 +49,11 @@
   "integrity": {
     "/_mw/boot.js": "sha384-CkY7jMTQC+s7gYJQxMkFyPL08V1//5xMDnLrS6nJd87IUSDum5rNvI53F6vcac7X",
     "/_mw/door-frame.js": "sha384-BNN9OktQGCuexKunUrusWd5eaRZ1vyDGt6K9hPIAxV3px0nwpSNw1l+WE+4+ewH4",
-    "/_mw/loader.js": "sha384-BiH6b0jldW4bImOR0FuZ9gHpm2aJbPQbTCqHrFPUB2xFM0UzvSA4/7g2Io1C2mvI",
+    "/_mw/loader.js": "sha384-nW3cH7uJtSi0r8Aq4SiEj51BOmlJ6E6xUxrj+rtj6ttm5oTaANgZL7UJkLqeWzI1",
     "/_mw/mw.js": "sha384-N7Skwrk9Y4oFTzzUWYvCxx7WmzMqG4lSodoG6UEGuQBKyQhkZCXrZZtmeTJN+rJ/",
     "/_mw/pow-worker.js": "sha384-DkjkV+FEAy75SwG1mZlBBnnXu7/RwH1NlhzJflJsOf8fXpaCpY4LCZhIZ4DkuhR0",
     "/_mw/sdk.js": "sha384-tHy1VqvDfCzZZBxKXtmH1N2hNXu7BpttsW8h5GBQ2w8d82Vk827LeS9Q2VzQifoq",
-    "/_mw/sw-core.js": "sha384-bEBxSuTVuuip92EgDJ4nZ1NFwIcNY60fFxV2l8eHjloAxAWNlYyxQBFnqPfjUGki",
+    "/_mw/sw-core.js": "sha384-SBejy1IFU57Jyme2yggpHr1gvzmgjazbI9AWzsWzC7spCE6XwBM0laThGTJrTdBl",
     "/_mw/ui.css": "sha384-OWwKyn0FYxtT6+zwgJWFBLyBBDeaYOScljJm3xooAUYHGreHzXKfm1FVvz2P1n7A",
     "/_mw/webtorrent.min.js": "sha384-Q2ahL7zgiL1RJhmhsSnhsMzk5hWUDdOcLlxVOavtpteMDqKWJy5ILm7XXaxMhOnr",
     "/_mw/signin.js": "sha384-XpCIcAO4PxFVtDOebItz/U3jFi/5PQo2ZxOSchypBqbKNWApgu2R01xB9ubE090s",
@@ -64,7 +64,7 @@
     {
       "path": "404.html",
       "bytes": 2988,
-      "sha256": "4eb710479f595409f2ed913e8aeddd2ddc4233f793def73afa88ec2e3e035d20"
+      "sha256": "5da15a0736c71518dbe44af19b6052473b812a24098d42cd46a9a633ed197e6e"
     },
     {
       "path": "_mw/boot.js",
@@ -84,7 +84,7 @@
     {
       "path": "_mw/door.json",
       "bytes": 4681,
-      "sha256": "546c6029f4f4449515c2edbc5f7751bbc2dc5086407d72075e7db3a012cc5d9c"
+      "sha256": "ea61da2a2b9e3f9adcc10b4a88e72b125f1f4a89cf1e2834ffedb6cdaeb8dd05"
     },
     {
       "path": "_mw/door.webmanifest",
@@ -98,8 +98,8 @@
     },
     {
       "path": "_mw/loader.js",
-      "bytes": 1437232,
-      "sha256": "e98cca4ea5f84890d3f9ba0f53ebab355d7ac54a5f4abdd0eebb9bd9e9b12224"
+      "bytes": 1437238,
+      "sha256": "c02726345de28a8c904267076b503a4c24c874073634ba4bf54794c353b690c0"
     },
     {
       "path": "_mw/manifest.webmanifest",
@@ -114,7 +114,7 @@
     {
       "path": "_mw/open.html",
       "bytes": 2984,
-      "sha256": "c4c35c63a18f55ea3c9327b0e8e1acf6526a91167d63b1097d19beff1f3815c1"
+      "sha256": "a5b73d8ccc91a1df0a8b8247563b4ebf2bbff1537db08c6a3c865b35dfb230fd"
     },
     {
       "path": "_mw/pow-worker.js",
@@ -139,7 +139,7 @@
     {
       "path": "_mw/sw-core.js",
       "bytes": 89133,
-      "sha256": "e5b7d4fffc435008227d2ad915a661f845b20d7205724767a42806a75cb52bfd"
+      "sha256": "2bc5337a56432a4431c6aa2a23e0637ce24f6bc0552f6f951822e7a710c19c2b"
     },
     {
       "path": "_mw/ui.css",
@@ -154,7 +154,7 @@
     {
       "path": "index.html",
       "bytes": 2988,
-      "sha256": "4eb710479f595409f2ed913e8aeddd2ddc4233f793def73afa88ec2e3e035d20"
+      "sha256": "5da15a0736c71518dbe44af19b6052473b812a24098d42cd46a9a633ed197e6e"
     },
     {
       "path": "mw-sw-kill.js",
@@ -164,7 +164,7 @@
     {
       "path": "mw-sw.js",
       "bytes": 90782,
-      "sha256": "23e6525428a259422f991907653c85e62f54aca9bf38a514c8b9542ace65620b"
+      "sha256": "1558d4c8850e7e7ebb9f0141e29e6573b6c6a43254b1733b3321751478e4ef4a"
     }
   ]
 }
