@@ -1,7 +1,7 @@
 {
   "name": "felinar",
   "version": "0.3.0",
-  "buildId": "bbcb82098cda",
+  "buildId": "6dd2aa98cfe7",
   "targets": [
     "es2020",
     "safari15.4",
@@ -29,7 +29,7 @@
   "packages": {},
   "sri": {
     "/_mw/boot.js": "sha384-CkY7jMTQC+s7gYJQxMkFyPL08V1//5xMDnLrS6nJd87IUSDum5rNvI53F6vcac7X",
-    "/_mw/loader.js": "sha384-hzoFwXdrtjmvtBpcZIvD/rKHK9njMW/ib684+M7Vg3BDSj645/oQFOqVeivDQ46S"
+    "/_mw/loader.js": "sha384-pCYtJcr6+xPY+kOF9gJvldGl2nlAy2H/sb1a/VRaTHX7muukeHPsF01sxtk0wA5M"
   },
   "precache": [
     "/index.html",
@@ -48,23 +48,23 @@
   ],
   "integrity": {
     "/_mw/boot.js": "sha384-CkY7jMTQC+s7gYJQxMkFyPL08V1//5xMDnLrS6nJd87IUSDum5rNvI53F6vcac7X",
-    "/_mw/door-frame.js": "sha384-lq0BGMBRBQzLlkizZDzDI54xZHGMGq/1wGNRpMTaOzgJvftUC7g+6a0CzYidTIvg",
-    "/_mw/loader.js": "sha384-hzoFwXdrtjmvtBpcZIvD/rKHK9njMW/ib684+M7Vg3BDSj645/oQFOqVeivDQ46S",
-    "/_mw/mw.js": "sha384-g1ocSZfXq9Qe5IVpDTExx6/TFq625+lskk+ZZBC0gaQYJvhh6nupP48+Lky9NlSM",
+    "/_mw/door-frame.js": "sha384-BNN9OktQGCuexKunUrusWd5eaRZ1vyDGt6K9hPIAxV3px0nwpSNw1l+WE+4+ewH4",
+    "/_mw/loader.js": "sha384-pCYtJcr6+xPY+kOF9gJvldGl2nlAy2H/sb1a/VRaTHX7muukeHPsF01sxtk0wA5M",
+    "/_mw/mw.js": "sha384-N7Skwrk9Y4oFTzzUWYvCxx7WmzMqG4lSodoG6UEGuQBKyQhkZCXrZZtmeTJN+rJ/",
     "/_mw/pow-worker.js": "sha384-DkjkV+FEAy75SwG1mZlBBnnXu7/RwH1NlhzJflJsOf8fXpaCpY4LCZhIZ4DkuhR0",
     "/_mw/sdk.js": "sha384-tHy1VqvDfCzZZBxKXtmH1N2hNXu7BpttsW8h5GBQ2w8d82Vk827LeS9Q2VzQifoq",
-    "/_mw/sw-core.js": "sha384-w2l2d8bTMDfaq4lspapmGrb21yK4LN36eyuJoP6SXOT2V6XLL8kqICOLwqrT6LoB",
+    "/_mw/sw-core.js": "sha384-HGvryRisjJb+TyxLpCJjb0dF/gt7/NSqJLVfMj/7vbpoCDtvuUpMTeo4BY0aXMx5",
     "/_mw/ui.css": "sha384-OWwKyn0FYxtT6+zwgJWFBLyBBDeaYOScljJm3xooAUYHGreHzXKfm1FVvz2P1n7A",
     "/_mw/webtorrent.min.js": "sha384-Q2ahL7zgiL1RJhmhsSnhsMzk5hWUDdOcLlxVOavtpteMDqKWJy5ILm7XXaxMhOnr",
-    "/_mw/signin.js": "sha384-WiKnNRdBkxUHZBU1dKpEI5K+LohCM8L67OXsqwUZa0mYbT/l6U7qZV3jhjbtEFj1",
-    "/_mw/chat-panel.js": "sha384-TNqPjsJx4pgv1JfG1usjQSIoXoY6I0V/YS3yRGP4dNGr6hUVfazHWEtI91TPtU9s"
+    "/_mw/signin.js": "sha384-XpCIcAO4PxFVtDOebItz/U3jFi/5PQo2ZxOSchypBqbKNWApgu2R01xB9ubE090s",
+    "/_mw/chat-panel.js": "sha384-Lva5xd0GYc7kGqH8a13/Gia8ukEk1o/iOlWQB0G2UBrlRW4krIevxIDreUfLuHyO"
   },
   "skipped": [],
   "files": [
     {
       "path": "404.html",
       "bytes": 2988,
-      "sha256": "b27efde1d96f318c64cf9f8981207be9370c80d4f14d590f1f86e42cc67fd9be"
+      "sha256": "aab240c503958f43ed474a27ebf7cd89d056aaa92c19caa83cd726890454ba38"
     },
     {
       "path": "_mw/boot.js",
@@ -73,18 +73,18 @@
     },
     {
       "path": "_mw/chat-panel.js",
-      "bytes": 106731,
-      "sha256": "f64a8a0f8495beccc4b0e926ef6e0e1cab1a13a37bef467b11e705c7058b4e33"
+      "bytes": 110243,
+      "sha256": "8a66149f99cf0e87343fb07c010d1c86641cf35572a8f3cf2eef9fa1913aa065"
     },
     {
       "path": "_mw/door-frame.js",
       "bytes": 12635,
-      "sha256": "2b95b0ec47d871ed9d1d76cc9a73ef50b811ad80eace74f572af6556e98b2bf4"
+      "sha256": "9f0e1ebc1f01978620a9f05f2548d7e84115b87ef1e5f36bc31b3c2c04664302"
     },
     {
       "path": "_mw/door.json",
       "bytes": 4681,
-      "sha256": "2ec02390d0973427621751a0c9c564008c277592ae7eddeffc53d03422cfbd73"
+      "sha256": "aa345451bb7e32bfde459a8cbaa2246d0f67c8806a474e1772e40779cd9bd9f7"
     },
     {
       "path": "_mw/door.webmanifest",
@@ -98,8 +98,8 @@
     },
     {
       "path": "_mw/loader.js",
-      "bytes": 1388905,
-      "sha256": "170cab8f46aa32e831275e8b5c3e6d6894b92c083c782089dd126c982b0920f2"
+      "bytes": 1437227,
+      "sha256": "a7c31bdff1a402d34b1a891bc97238a6c2a3f7f47f7a1468154559bddeac820a"
     },
     {
       "path": "_mw/manifest.webmanifest",
@@ -108,13 +108,13 @@
     },
     {
       "path": "_mw/mw.js",
-      "bytes": 943568,
-      "sha256": "4693baf7370de6a7e9a5198d6b0d6bcbe04292ed8f92d741e6ca4f6a8647c3eb"
+      "bytes": 949163,
+      "sha256": "38f562af7135ba0147c3412391562a834e196fe3d06698e3bd53a9415b644316"
     },
     {
       "path": "_mw/open.html",
       "bytes": 2984,
-      "sha256": "e7dbac98c9c49d36f3b570c73e810ced5a0fe302495321932e69c3eb6eb416c8"
+      "sha256": "c691e20360287f7f41fd7c91b70660403e346afb695816f9580cbd8dd5087890"
     },
     {
       "path": "_mw/pow-worker.js",
@@ -133,13 +133,13 @@
     },
     {
       "path": "_mw/signin.js",
-      "bytes": 129352,
-      "sha256": "e1de06f2a94171ec4568707bae13e6689825f8e2920def330b46f8ff42563702"
+      "bytes": 133189,
+      "sha256": "5471111f8cf680ebebe4b15878aec1f3d12d36030552d3138dd4480d7bd776d9"
     },
     {
       "path": "_mw/sw-core.js",
       "bytes": 89133,
-      "sha256": "2ee6720ec89e06ddbfd6f5f9e127ec4f3051248d5580c6a453477b6676acb80f"
+      "sha256": "74f5261c876819f53df6bc87b0f9cb2468ff13da1d01fe7d02eefc7d76bd22d6"
     },
     {
       "path": "_mw/ui.css",
@@ -154,7 +154,7 @@
     {
       "path": "index.html",
       "bytes": 2988,
-      "sha256": "b27efde1d96f318c64cf9f8981207be9370c80d4f14d590f1f86e42cc67fd9be"
+      "sha256": "aab240c503958f43ed474a27ebf7cd89d056aaa92c19caa83cd726890454ba38"
     },
     {
       "path": "mw-sw-kill.js",
@@ -164,7 +164,7 @@
     {
       "path": "mw-sw.js",
       "bytes": 90782,
-      "sha256": "a361d8349c48dce866fcd585b1511cb47a851eab6f4c25bd6de1f2baacf35a2a"
+      "sha256": "5f1a6fd3b44ae4ac9ff789121251e568ac2b6d1e137327f989d9e9b0dc00d8d9"
     }
   ]
 }
