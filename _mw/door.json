@@ -3,14 +3,14 @@
   "kind": "felinar-door",
   "name": "felinar",
   "version": "0.3.0",
-  "buildId": "f9b26a88bc9c",
+  "buildId": "649551244d44",
   "page": "/_mw/open.html",
   "pageAlias": "/_mw/open",
   "files": {
     "/404.html": {
       "bytes": 2988,
-      "sha256": "5da15a0736c71518dbe44af19b6052473b812a24098d42cd46a9a633ed197e6e",
-      "sri": "sha384-CmgTZexkJztSGKO+4DH32mGsj2XzgnzP0bFdsR4AGR+uaHWmNbEJRpDJejeUB4qy"
+      "sha256": "65b93709de2e22c012cfbc14ba35da5b3e9eef3fb4f04ad8bc50bbd5ec30284b",
+      "sri": "sha384-dRg1WWoRxDRaojTa4sYmXc0XJiupwFdPBcYlH5WNlmy38T/Gf13lozdbExCqehNp"
     },
     "/_mw/boot.js": {
       "bytes": 14525,
@@ -18,14 +18,14 @@
       "sri": "sha384-CkY7jMTQC+s7gYJQxMkFyPL08V1//5xMDnLrS6nJd87IUSDum5rNvI53F6vcac7X"
     },
     "/_mw/chat-panel.js": {
-      "bytes": 110243,
-      "sha256": "8a66149f99cf0e87343fb07c010d1c86641cf35572a8f3cf2eef9fa1913aa065",
-      "sri": "sha384-Lva5xd0GYc7kGqH8a13/Gia8ukEk1o/iOlWQB0G2UBrlRW4krIevxIDreUfLuHyO"
+      "bytes": 113707,
+      "sha256": "18f02cafb27b371493bcdb31f0ddd4f766e768c5a5c583f0b108a5552cf568a7",
+      "sri": "sha384-+i+gH8BEbPqtj6oCF/1dTi3aoTdFG8cYNJGuM4dOFZntBwBXupc0M7rwlPfu/QP1"
     },
     "/_mw/door-frame.js": {
       "bytes": 12635,
-      "sha256": "9f0e1ebc1f01978620a9f05f2548d7e84115b87ef1e5f36bc31b3c2c04664302",
-      "sri": "sha384-BNN9OktQGCuexKunUrusWd5eaRZ1vyDGt6K9hPIAxV3px0nwpSNw1l+WE+4+ewH4"
+      "sha256": "6edf2556c6ffd63ccd79d26213d8404d29303e15d9663909b594487367c438b8",
+      "sri": "sha384-2Sl6dkbrQSeueBY626YyHLY7Yy4zVhxEbg9IfhsGzyXaopbVq4qog2eZKsSAZc9d"
     },
     "/_mw/door.webmanifest": {
       "bytes": 785,
@@ -38,9 +38,9 @@
       "sri": "sha384-ir4jHvcZUCnKwi3MLVPUdm5Zb+c1qq1Ji0UIeiUnSjt/no40aJaJneHnoRnro0cL"
     },
     "/_mw/loader.js": {
-      "bytes": 1437238,
-      "sha256": "c02726345de28a8c904267076b503a4c24c874073634ba4bf54794c353b690c0",
-      "sri": "sha384-nW3cH7uJtSi0r8Aq4SiEj51BOmlJ6E6xUxrj+rtj6ttm5oTaANgZL7UJkLqeWzI1"
+      "bytes": 1457677,
+      "sha256": "cdbc3bc3e69a3e27c1e3cec1f996cdc33d47f4cb4ba6a9d5354e6e14ae77159e",
+      "sri": "sha384-Yr1nC/IWm0o4x+rLYT6ChB4b6Iq7Vtwfit7BgWVLFgek1gMtdGUSlmta8ZPOrNfI"
     },
     "/_mw/manifest.webmanifest": {
       "bytes": 470,
@@ -48,14 +48,14 @@
       "sri": "sha384-8R5BtFWzPAMJ+zFum4Jcdybwq9JFYpzQQlrALYiC5uWNbDPr6nqR0s6va7Cui5iY"
     },
     "/_mw/mw.js": {
-      "bytes": 949163,
-      "sha256": "38f562af7135ba0147c3412391562a834e196fe3d06698e3bd53a9415b644316",
-      "sri": "sha384-N7Skwrk9Y4oFTzzUWYvCxx7WmzMqG4lSodoG6UEGuQBKyQhkZCXrZZtmeTJN+rJ/"
+      "bytes": 952627,
+      "sha256": "1f48cf97342f5bd6d530bfdf380c5718931d25b5e33b31593093c397cffdaad6",
+      "sri": "sha384-4IgtsoBIbvIOlUNVyt5t9isrT/s+7TUC31ZD1Zeb0s/OEpDeXrDUMxblQoplzFNE"
     },
     "/_mw/open.html": {
       "bytes": 2984,
-      "sha256": "a5b73d8ccc91a1df0a8b8247563b4ebf2bbff1537db08c6a3c865b35dfb230fd",
-      "sri": "sha384-k7MZHBvlRqKg6d/6Vna6kIfXPnWieKApJmZv1H1znHNSPFp8FQoE8vyTi1NTe5Ek"
+      "sha256": "ec2c92b961cdbd1b0a9e93c777f007829251f3a7082eb6359f2354a818b6f5b8",
+      "sri": "sha384-8LD+sCcKajQrYfOSudCQnyNlMK4WVIU8bG046S3JK0kpRKVh3IanQz94G1ZR8LUe"
     },
     "/_mw/pow-worker.js": {
       "bytes": 20536,
@@ -73,14 +73,14 @@
       "sri": "sha384-tHy1VqvDfCzZZBxKXtmH1N2hNXu7BpttsW8h5GBQ2w8d82Vk827LeS9Q2VzQifoq"
     },
     "/_mw/signin.js": {
-      "bytes": 133189,
-      "sha256": "5471111f8cf680ebebe4b15878aec1f3d12d36030552d3138dd4480d7bd776d9",
-      "sri": "sha384-XpCIcAO4PxFVtDOebItz/U3jFi/5PQo2ZxOSchypBqbKNWApgu2R01xB9ubE090s"
+      "bytes": 136653,
+      "sha256": "38ed25587841f057624576df68fa3e5a0ac37e132d47015dd586653f6f1cc9c6",
+      "sri": "sha384-Ld1230Sc+irX55NWXdCITrdIEGg7SG2Y+LmlzZ64Ltd35zTLbYD56BP6I3C9bm5a"
     },
     "/_mw/sw-core.js": {
-      "bytes": 89133,
-      "sha256": "2bc5337a56432a4431c6aa2a23e0637ce24f6bc0552f6f951822e7a710c19c2b",
-      "sri": "sha384-SBejy1IFU57Jyme2yggpHr1gvzmgjazbI9AWzsWzC7spCE6XwBM0laThGTJrTdBl"
+      "bytes": 89213,
+      "sha256": "d1a165d0e2ac148effc0de8edaea1286447299b54e33280aa8c9cde1f8608cc2",
+      "sri": "sha384-mYZ/uBNaggTh5Q2yu970r8pqrTDAarGAeGtkcZ0yws5prj5QvJ1xne3/U4PIeoTb"
     },
     "/_mw/ui.css": {
       "bytes": 26681,
@@ -94,8 +94,8 @@
     },
     "/index.html": {
       "bytes": 2988,
-      "sha256": "5da15a0736c71518dbe44af19b6052473b812a24098d42cd46a9a633ed197e6e",
-      "sri": "sha384-CmgTZexkJztSGKO+4DH32mGsj2XzgnzP0bFdsR4AGR+uaHWmNbEJRpDJejeUB4qy"
+      "sha256": "65b93709de2e22c012cfbc14ba35da5b3e9eef3fb4f04ad8bc50bbd5ec30284b",
+      "sri": "sha384-dRg1WWoRxDRaojTa4sYmXc0XJiupwFdPBcYlH5WNlmy38T/Gf13lozdbExCqehNp"
     },
     "/mw-sw-kill.js": {
       "bytes": 627,
@@ -103,9 +103,9 @@
       "sri": "sha384-FJu3twEHDXEeRtoadVk8PsnHJwpIuPaecu1w1nBMw4fsuwLnATQtum2AJLjzgcXu"
     },
     "/mw-sw.js": {
-      "bytes": 90782,
-      "sha256": "1558d4c8850e7e7ebb9f0141e29e6573b6c6a43254b1733b3321751478e4ef4a",
-      "sri": "sha384-uqGxVk7U3LTtTQMK4s+kDZa5CJiTB1IWXNREe5r8HFe1OoTQkGkPQ5/IDFEK2OQw"
+      "bytes": 90862,
+      "sha256": "07dae88f3dd6a9be2883da9f9fe51e9b376002ef7f54da259d68089874d1fea4",
+      "sri": "sha384-JOr/IvOp/I0NEWTsgqJnO977bw/aK2hoVOKoxhFByedXrHHGzMi4/Q/yp3y+gq/D"
     }
   },
   "apps": {
@@ -115,7 +115,9 @@
     "stun": [
       "stun:stun.cloudflare.com:3478"
     ],
-    "idp": "https://felinar-demo-id.pages.dev"
+    "idp": "https://felinar-demo-id.pages.dev",
+    "relay": "rendezvous",
+    "direct": "off"
   },
   "obs": {
     "endpoint": "https://felinar-obs.pages.dev"
